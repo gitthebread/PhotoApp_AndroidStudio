@@ -1,0 +1,40 @@
+{
+  "articles": [
+  {
+    "id": 0,
+    "source_photo": "https://images.unsplash.com/photo-1622818426197-d54f85b88690?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmxlbmRlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "title_photo": "Blender",
+    "description_photo": "A blender is a kitchen appliance used to mix, puree, or emulsify food and liquids. It typically consists of a motorized base, a container with a rotating blade, and a lid. Blenders are commonly used to make smoothies, soups, sauces, and other blended drinks and dishes. Some blenders also come with additional attachments for chopping, grinding, or juicing."
+  },
+  {
+    "id": 1,
+    "source_photo": "https://images.unsplash.com/photo-1579165466814-e646cfa4a3be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHZhcGUlMjBzdGlja3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "title_photo": "Vape Stick",
+    "description_photo": "A vape stick, also known as a vape pen or e-cigarette, is a handheld device used to inhale vaporized nicotine or other substances. It typically consists of a battery, a heating element, and a cartridge containing e-liquid or oil. Vape sticks are popular among people who want an alternative to traditional cigarettes, as they can deliver nicotine without the harmful chemicals found in tobacco smoke. However, they are not without risks."
+  },
+  {
+    "id": 2,
+    "source_photo": "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWljcm93YXZlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title_photo": "Microwave",
+    "description_photo": "A microwave is a kitchen appliance used for cooking and reheating food by using electromagnetic radiation in the microwave frequency range. It typically consists of a box-shaped compartment with a door and a control panel. Microwaves work by emitting microwaves that cause water, fat, and sugar molecules in food to vibrate, producing heat and cooking the food. Microwaves are a quick and convenient way to prepare food, especially for reheating leftovers or cooking frozen meals."
+  },
+  {
+    "id": 3,
+    "source_photo": "https://images.unsplash.com/photo-1524069290683-0457abfe42c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Z3JvdXAlMjB3YXZpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "title_photo": "Macrowave",
+    "description_photo": "A group of students waving at the camera is a common scene that often signifies joy and camaraderie. It may take place in various settings such as classrooms, graduation ceremonies, or school events. Waving at the camera is a way for students to express their excitement and bond with one another. It also serves as a memory captured in a photo or video that can be cherished for years to come. It is also the opposite of Microwave"
+  },
+  {
+    "id": 4,
+    "source_photo": "https://images.unsplash.com/photo-1617168073088-12c89361e7f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bW9uc3RlciUyMHRydWNrfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "title_photo": "Monster Shruck",
+    "description_photo": "It's a monster truck that looks like a shark haha get it? Anyway, it is a unique and attention-grabbing vehicle that is designed to resemble a predatory sea creature. It typically features a large, shark-shaped body with menacing teeth, fins, and eyes, mounted on top of a powerful chassis and oversized wheels. "
+  },
+  {
+    "id": 5,
+    "source_photo": "https://static.wikia.nocookie.net/hitman/images/e/ec/Agent_47_in_Hitman_2016.png/revision/latest?cb=20230124042322",
+    "title_photo": "Agent 47",
+    "description_photo": "Agent 47 is the main protagonist of the video game series \"Hitman.\" He is a genetically-engineered assassin who works for the International Contract Agency (ICA) and is known for his skill in covert operations, disguise, and assassination. As they say: \"Don't mess with a man who has a homing briefcase.\""
+  }
+]
+}
